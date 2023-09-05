@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    font-size: 36px;
+    color: cadetblue;
+}
+
+li {
+    list-style: none;
+}
